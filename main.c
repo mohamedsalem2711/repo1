@@ -2,7 +2,8 @@
 
 int main()
 {
-	printf("salem");
+	printf("ssss\n");
+	printf("ale");
 	return 0;
 	
 }
